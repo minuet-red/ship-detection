@@ -1,0 +1,3 @@
+tensorboard --logdir=D:\Mycode\main\logs
+
+2c3336f4185b89fb2b584a4cb407ec6b3b975dd0
